@@ -32,7 +32,7 @@ export default function Home() {
               3 In Stock -- Buy Now!
             </span>
             <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
-              lil' carrot jit
+              lil&apos; carrot jit
             </p>
             <a
               href="http://localhost:3000/purchase/bunny"
@@ -76,7 +76,7 @@ export default function Home() {
               20+ In Stock
             </span>
             <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
-              lil' fly eater
+              lil&apos; fly eater
             </p>
             <a
               href="http://localhost:3000/purchase/frog"
@@ -120,7 +120,7 @@ export default function Home() {
               7 In Stock
             </span>
             <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
-              lil' tentacles
+              lil&apos; tentacles
             </p>
             <a
               href="http://localhost:3000/purchase/octopus"
