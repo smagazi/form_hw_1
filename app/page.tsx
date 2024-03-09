@@ -15,7 +15,7 @@ export default function Home() {
       <div className="grid grid-cols-3 gap-4 justify-items-center">
         {/*Item 1 Section*/}
         <div className="rounded-md place-content-evenly">
-          <a href="http://localhost:3000/purchase/bunny">
+          <a href="/purchase/bunny">
             <img
               className="rounded-md"
               src="https://waywardpineapplecreations.com/wp-content/uploads/2020/03/bunny-amigurumi-white-background-front-1-scaled.jpg"
@@ -23,7 +23,7 @@ export default function Home() {
             />
           </a>
           <div className="p-5">
-            <a href="http://localhost:3000/purchase/bunny">
+            <a href="/purchase/bunny">
               <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                 Bunny Amigurumi Crochet
               </h5>
@@ -35,7 +35,7 @@ export default function Home() {
               lil&apos; carrot jit
             </p>
             <a
-              href="http://localhost:3000/purchase/bunny"
+              href="/purchase/bunny"
               className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
             >
               Purchase
@@ -59,7 +59,7 @@ export default function Home() {
         </div>
         {/*Item 2 Section*/}
         <div className="rounded-md place-content-evenly">
-          <a href="http://localhost:3000/purchase/frog">
+          <a href="/purchase/frog">
             <img
               className="rounded-md"
               src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ57v6gfsLJA9TTINPXGRE0ZJVB2QBCqkkkxTRF4YzNixS5EpdFD8NSR-jCXvnVT9KEl0-vr5bdebWbPLDjFXURxqXvk_MUlp9Om9jRULgbdol2kjNLAIV2jpJDhEWKHLCRkNskyhHbjJtwrNnCANJm-2OBo-_5ZNVImGqkpUSkuMSb5PyVVXr9eyhGMAP/s2082/leggy%20frog%20crochet%20pattern%20free%20easy%20crochet%20frog%20pattern%20simple%20frog%20crochet%20pattern.jpeg"
@@ -67,7 +67,7 @@ export default function Home() {
             />
           </a>
           <div className="p-5">
-            <a href="http://localhost:3000/purchase/frog">
+            <a href="/purchase/frog">
               <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                 Frog Amigurumi Crochet
               </h5>
@@ -79,7 +79,7 @@ export default function Home() {
               lil&apos; fly eater
             </p>
             <a
-              href="http://localhost:3000/purchase/frog"
+              href="/purchase/frog"
               className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
             >
               Purchase
@@ -103,7 +103,7 @@ export default function Home() {
         </div>
         {/*Item 3 Section*/}
         <div className="rounded-md place-content-evenly">
-          <a href="http://localhost:3000/purchase/octopus">
+          <a href="/purchase/octopus">
             <img
               className="rounded-md"
               src="https://i0.wp.com/kraftykait.com/wp-content/uploads/2017/02/amigurumi-octopus.jpg?w=1920&ssl=1"
@@ -111,7 +111,7 @@ export default function Home() {
             />
           </a>
           <div className="p-5">
-            <a href="http://localhost:3000/purchase/octopus">
+            <a href="/purchase/octopus">
               <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                 Octopus Amigurumi Crochet
               </h5>
@@ -123,7 +123,7 @@ export default function Home() {
               lil&apos; tentacles
             </p>
             <a
-              href="http://localhost:3000/purchase/octopus"
+              href="/purchase/octopus"
               className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
             >
               Purchase

@@ -15,7 +15,7 @@ export default function FeedbackButton() {
       <NavigationMenu>
         <NavigationMenuList>
           <NavigationMenuItem>
-            <Link href="http://localhost:3000/feedback" legacyBehavior passHref>
+            <Link href="/feedback" legacyBehavior passHref>
               <NavigationMenuLink className={navigationMenuTriggerStyle()}>
                 Feedback
               </NavigationMenuLink>
