@@ -45,7 +45,7 @@ export default function TextareaForm() {
       {/* Back Button Section */}
       <BackButton></BackButton>
 
-      <div className="mt-45">
+      <div className="my-40">
       <Form {...form}>
         <form
           onSubmit={form.handleSubmit(onSubmit)}
