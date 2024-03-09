@@ -11,7 +11,7 @@ import Link from "next/link";
 
 export default function FeedbackButton() {
   return (
-    <div className="absolute right-0 top-0 h-16 w-16 mt-4 ml-4">
+    <div className="absolute right-0 top-0 h-16 w-16 mt-4 ml-8">
       <NavigationMenu>
         <NavigationMenuList>
           <NavigationMenuItem>
